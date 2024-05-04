@@ -1,0 +1,4 @@
+Playwright
+PyYAML
+Pydantic
+tqdm

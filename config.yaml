@@ -1,0 +1,150 @@
+selectors:
+  - '.message-overlay'
+  - '.message-safe-area-holder'
+  - 'div[class*="cookie"]'
+  - 'div[id*="cookie"]'
+  - 'div[role*="dialog"]'
+  - 'div[id*="notice"]'
+  - 'div[class*="message"]'
+  - 'div[id*="message"]'
+  - 'div[class*="overlay"]'
+  - 'div[id*="overlay"]'
+  - 'div[class*="modal"]'
+  - 'div[id*="modal"]'
+  - 'div[id*="message-overlay"]'
+  - 'div[class*="cmp_content"]'
+  - 'div[class*="cmp-banner"]'
+  - 'div[class*="cmpbox"]'
+  - 'div[id*="cmpbox"]'
+  - 'div[class*="consent"]'
+  - 'div[id*="consent"]'
+  - 'div[class*="gdpr"]'
+  - 'div[id*="gdpr"]'
+  - 'div[class*="privacy"]'
+  - 'div[id*="privacy"]'
+  - 'div[class*="popup"]'
+  - 'div[id*="popup"]'
+  - 'div[class*="notice"]'
+  - 'div[id*="notice"]'
+  - 'div[class*="policy"]'
+  - 'div[id*="policy"]'
+  - 'div[class*="banner"]'
+  - 'div[id*="cmp_overlay"]'
+  - 'div[class*="cmp_paywall"]'
+  - 'div[id*="banner"]'
+  - 'div[class*="accept"]'
+  - 'div[id*="accept"]'
+  - 'div[class*="reject"]'
+  - 'div[id*="reject"]'
+  - 'div[class*="agree"]'
+  - 'div[id*="agree"]'
+  - 'div[class*="zustimmen"]'
+  - 'div[id*="zustimmen"]'
+  - 'div[class*="einwilligung"]'
+  - 'div[id*="einwilligung"]'
+  - 'div[class*="datenschutz"]'
+  - 'div[id*="datenschutz"]'
+  - 'div[class*="cookie-hinweis"]'
+  - 'div[id*="cookie-hinweis"]'
+  - 'div[class*="cookie-zustimmung"]'
+  - 'div[id*="cookie-zustimmung"]'
+  - 'div[class*="footer-consent"]'
+  - 'div[id*="footer-consent"]'
+  - 'div[class*="cookie-consent"]'
+  - 'div[id*="cookie-consent"]'
+  - 'div[class*="cookie-alert"]'
+  - 'div[id*="cookie-alert"]'
+  - 'div[class*="cookie-popup"]'
+  - 'div[id*="cookie-popup"]'
+  - 'div[class*="cookie-notice"]'
+  - 'div[id*="cookie-notice"]'
+  - 'div[class*="cookie-wrapper"]'
+  - 'div[id*="cookie-wrapper"]'
+cookies:     
+  - "input[id='sp-cc-accept']"
+  - "a.cust-btn:has-text('Zustimmen & weiter')"
+  - "button[title='Accept cookies']"
+  - "button[title='ACCEPT ALL']"
+  - "button[title='Accept all cookies']"
+  - "button[title='Ich bin einverstanden']"
+  - "button[class*='cookie']"
+  - "button[id*='cookie-accept']"
+  - "button[class*='accept']"
+  - "button[id*='accept']"
+  - "button[class*='consent']"
+  - "button[id*='consent']"
+  - "button[class*='agree']"
+  - "button[id*='agree']"
+  - "button[class*='cmp_button']"
+  - "button[title='Akzeptieren']"
+  - "button[title='Alle akzeptieren']"
+  - "button[class*='zustimmen']"
+  - "button[id*='zustimmen']"
+  - "button[class*='einverstanden']"
+  - "button[id*='einverstanden']"
+  - "text='Zustimmen & weiter'"
+  - "text='Schließen'"
+  - "text='schließen'"
+  - "text='SCHLEIßEN'"
+  - "text='SCHLEISSEN'"
+  - "text='schliessen'"
+  - "text='Schliessen'"
+  - "text='AKZEPTIEREN'"
+  - "text='Akzeptieren & weiter'"
+  - "text='Akzeptieren und weiter'"
+  - "text='Akzeptieren und fortfahren'"
+  - "text='Akzeptieren und schließen'"
+  - "text='Akzeptieren und schliessen'"
+  - "text='Akzeptieren und schließen'"
+  - "text='Akzeptieren und schliessen'" 
+  - "text='Close'"
+  - "text='close'"
+  - "text='Accept & continue'"
+  - "text='Accept'"
+  - "text='Accept All'"
+  - "text='ACCEPT ALL'"
+  - "text='Agree'"
+  - 'button:text("Akzeptieren")'
+  - 'button:text("Alle akzeptieren")'
+  - 'button:text("Zustimmen")'
+  - 'button:text("Einverstanden")'
+  - 'button:text("Ich bin einverstanden")'  
+  - "text='Akzeptieren'"
+  - "text='Alle akzeptieren'"
+  - "text='Zustimm7en'"
+  - "text='Einverstanden'"
+  - "button[class*='allow']"
+  - "button[id*='allow']"
+  - "button[class*='ok']"
+  - "button[id*='ok']"
+  - "button[class*='yes']"
+  - "button[id*='yes']"
+  - "button[title='I accept']"
+  - "button[title='I agree']"
+  - "button[class*='confirm']"
+  - "button[id*='confirm']"
+  - "text='I accept'"
+  - "text='I agree'"
+  - "text='OK'"
+  - "text='Yes'"
+  - "text='Continue'"
+  - "button[class*='continue']"
+  - "button[id*='continue']"
+  - "button[title='Continue']"
+  - "text='Weiter'"
+  - "button[title='Weiter']"
+  - "button[class*='weiter']"
+  - "button[id*='weiter']"
+  - "text='Fortfahren'"
+  - "button[title='Fortfahren']"
+  - "button[class*='fortfahren']"
+  - "button[id*='fortfahren']"
+  - "text='Consent'"
+  - "button[class*='proceed']"
+  - "button[id*='proceed']"
+  - "text='Proceed'"
+  - "data-testid='uc-accept-all-button'"
+
+output_folder:
+  'screenshots_output'
+
